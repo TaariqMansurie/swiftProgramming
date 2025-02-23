@@ -180,7 +180,7 @@ repeat {
    
 } while doubles < 10
 
-
+//doubt
 var scales = ["A", "B", "C", "D", "E"]
 var scaleCounter = 0
 repeat {
